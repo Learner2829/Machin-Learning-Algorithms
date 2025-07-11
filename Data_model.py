@@ -127,3 +127,4 @@ for i, acc in enumerate(accuracies, 1):
     print(f" Fold {i}: {acc:.2f}")
 print(f"📊 Average Accuracy: {sum(accuracies)/len(accuracies):.2f}")
 
+# git add
